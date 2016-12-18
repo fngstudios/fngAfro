@@ -15,5 +15,5 @@ Prototype working, pcb layout will change in near future.
 
 ## Images
 
-![fngAfro](https://github.com/fngstudios/fngAfro/wiki/images/fngAfro1.png)  
-![fngAfro](https://github.com/fngstudios/fngAfro/wiki/images/fngAfro2.png)  
+![fngAfro](https://github.com/fngstudios/fngAfro/Wiki/Images/fngAfro1.png)  
+![fngAfro](https://github.com/fngstudios/fngAfro/Wiki/Images/fngAfro2.png)  
